@@ -42,7 +42,7 @@ Nmap, enum4linux-ng, smbclient, netexec, Impacket (GetNPUsers, GetUserSPNs), has
 
 ## A note on the AI
 
-I used Claude in place of the ChatGPT the course brief names, mainly for clarifying commands, working through a couple of genuine dead ends (the DFSR warning in `dcdiag` looked like a real problem until I checked the actual event log and found it was a known false positive on a single, newly-promoted DC with no replication partner), and helping draft the report. Every command, every click, and every read of the results was mine; Claude never touched the lab itself.
+I used Claude in place of the ChatGPT the course brief names, mainly for clarifying commands, working through a couple of genuine dead ends (the DFSR warning in `dcdiag` looked like a real problem until I checked the actual event log and found it was a known false positive on a single, newly-promoted DC with no replication partner), and helping draft the report. Every command, every click, and every read of the results was mine, Claude never touched the lab itself.
 
 ---
 
